@@ -4,7 +4,7 @@
     "description": "Armazenamento em cache e compactação para Twig (JavaScript e CSS).",
     "keywords": [],
     "homepage": "https://github.com/enio-dev/twig-assets",
-    "license": "",
+    "license": "MIT",
     "authors": [
         {
             "name": "enio-dev",
